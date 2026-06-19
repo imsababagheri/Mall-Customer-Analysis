@@ -10,7 +10,7 @@
 - Python
 - Jupyter Notebook
 - Pandas
-_ Seaborn
+- Seaborn
 
 مراحل انجام کار
 
