@@ -1,4 +1,4 @@
-# Mall-Customer-Analysis
+# Mall-Customers-Analysis
 پروژه تحلیل داده‌های مشتریان فروشگاه
 
 معرفی پروژه
